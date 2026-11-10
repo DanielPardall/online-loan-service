@@ -167,7 +167,3 @@ For this packaging pass, Python files were syntax-checked, relative documentatio
 - Preserved migrations and the original frontend lockfile. Business logic was not rewritten.
 
 The assignment handout was used as context and is not bundled as a project deliverable.
-
-## Academic context and attribution
-
-Collaborative coursework, University of Coimbra, Service Engineering, academic year 2024/2025. The service-design documents identify **Group 7**. This packaging does not attribute all work to one person; original group labels remain in the documents.
