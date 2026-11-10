@@ -1,0 +1,26 @@
+Mudanças realizadas na Meta 1
+
+Personas:
+- Tal como sugerido adicionamos o nível de literacia tecnológica de cada um.
+
+Stakeholder map:
+- Movemos o governo para o 3º anel por ter uma ação menos direta;
+- Adicionamos mais alguns stakeholders:
+	- Um que representa os restantes bancos (Outros Bancos). 
+	- Um que representa os fornecedores de hardware.
+	- Um que representa os fornecedores de telecomunicações.
+
+- Criamos quatro novas relações: 
+	- concorrência e Opções alternativas - A primeira dá-se entre o nosso banco e os bancos alternativos e a segunda foi usada para ilustrar a relação entre o nosso cliente e os outros bancos;
+	- fornecimento de hardware;
+	- fornecimento de telecomunicações;
+- Esclarecemos que o nosso Agente de Crédito é o Loan Officer.
+
+Customer Journey Maps:
+- Colocamos o fornecimento de feedback do João antes da compra do carro;
+- Alteramos ligeiramente os arcos dramáticos;
+- Sombreamos os retângulos relativos às exceções de cor de laranja; 
+
+Expectation Maps: 
+- Melhoramos os dois expectation maps para que fossem mais de encontro ao nosso projeto; 
+
